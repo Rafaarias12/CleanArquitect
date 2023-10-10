@@ -10,7 +10,7 @@ namespace Infraestructura
 {
     public class ProductosDbContext : DbContext
     {
-        public DbSet<Productos> Productos { get; set; }
+        public DbSet<Producto> Productos { get; set; }
         public DbSet<Tipo> Tipo { get; set; }
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)

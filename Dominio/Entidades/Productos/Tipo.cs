@@ -17,6 +17,6 @@ namespace Dominio.Entidades.Productos
         [Required]
         [Column(TypeName = "varchar(45)")]
         public string nombre { get; set; }
-        public ICollection<Productos> Productos { get; set; }
+        public ICollection<Producto> Productos { get; set; }
     }
 }

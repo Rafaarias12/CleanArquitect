@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0QrqsWlNQqi4d0n5iwsIdNqsDTIYIdFvDPrcyzFuQzEi5c0aUPMS6arCJoZ/axcgFk9hRk+eReca0UqkNaVPTg==",
+  "dgSpecHash": "9BSJwcxUY9/D8zvCK/IDFJ587NbbASgEzeEEHsrusZqHRhzxGgWRISdIb3z+wyj80VTCqjxjh9njjQBq1tlquA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\rarias\\Documents\\Proyectos\\CleanArquitect\\Infraestructura\\Infraestructura.csproj",
+  "projectFilePath": "C:\\Users\\rarias\\Documents\\GitHub\\CleanArquitect\\Infraestructura\\Infraestructura.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rarias\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\rarias\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

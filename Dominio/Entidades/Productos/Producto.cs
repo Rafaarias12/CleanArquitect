@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace Dominio.Entidades.Productos
 {
-    public class Productos
+    public class Producto
     {
         [Required]
         [Column(TypeName = "int")]
